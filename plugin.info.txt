@@ -1,5 +1,5 @@
 base   codebutton
-author Heiko Barth; Grok
+author Heiko Barth; Grok Flash; Deepseek-v4-Pro
 email  
 date   2026-09-02
 name   Toolbar Code & File Buttons

@@ -34,7 +34,7 @@ class action_plugin_codebutton extends DokuWiki_Action_Plugin
         $event->data[] = [
             'type'  => 'format',
             'title' => $this->getLang('insertcode'),
-            'icon'  => '../../plugins/codebutton/image/code.png',
+            'icon'  => DOKU_REL . 'lib/plugins/codebutton/image/code.png',
             'open'  => "<code>\n",
             'close' => "\n</code>",
         ];
@@ -43,7 +43,7 @@ class action_plugin_codebutton extends DokuWiki_Action_Plugin
         $event->data[] = [
             'type'  => 'format',
             'title' => $this->getLang('insertfile'),
-            'icon'  => '../../plugins/codebutton/image/code.png',
+            'icon'  => DOKU_REL . 'lib/plugins/codebutton/image/code.png',
             'open'  => "<file>\n",
             'close' => "\n</file>",
         ];
