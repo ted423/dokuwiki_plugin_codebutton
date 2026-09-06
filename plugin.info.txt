@@ -1,7 +1,7 @@
-base   codebutton
+base   codebutton-mod
 author Heiko Barth; Grok Flash; Deepseek-v4-Pro
 email  
-date   2026-09-02
+date   2026-09-06
 name   Toolbar Code & File Buttons
 desc   Inserts Code and File buttons into the editor toolbar
 url    https://github.com/ted423/dokuwiki_plugin_codebutton
